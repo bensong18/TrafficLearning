@@ -1,2 +1,2 @@
 # TrafficLearning
-1.cnn+bilstm+att+mtl.py 是lstm7.py修改后的，最新的
+1.exp3.py为最新的代码，model_multi_task1.py为MRN作者的原代码model部分
